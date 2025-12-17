@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Part2/phonebook"
+		},
+		{
+			"path": "../../notes-api-backend"
+		}
+	],
+	"settings": {}
+}
